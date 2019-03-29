@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?><database>
+    <element label="Needit1" max_length="40" name="x_58872_needit_needit1" type="collection">
+        <element label="Name" max_length="40" name="name" type="string"/>
+        <element label="New field1" max_length="40" name="new_field1" type="string"/>
+        <element attributes="ignore_filter_on_new=true" default="javascript:global.getNextObjNumberPadded();" label="Number" max_length="40" name="number" type="string"/>
+        <element label="State" max_length="40" name="state" type="string"/>
+        <element label="country" max_length="200" name="u_country" type="string"/>
+    </element>
+</database>
